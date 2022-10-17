@@ -28,7 +28,7 @@ img{
 /* header section */
 header{
     color: aliceblue;
-    float: left;                                                    /*CARI TAU*/
+    float: left;                                                    
     width: 100%;
 }
 
@@ -49,7 +49,7 @@ header{
 .menu ul{
     list-style: none;
     text-align: center;
-    overflow: hidden;                                             /*CARI TAU*/
+    overflow: hidden;                                             
     color: #FFFFFF;
     width: 100%;
     margin: 0;
